@@ -1,5 +1,13 @@
 El código es, de manera resumida, una pequeña aplicación que muestra un listado de marcas de coches hecho en C++.
 
+
+Alias:
+
+- co: checkout (git config --global alias.co checkout)
+- ci: commit (git config --global alias.ci commit)
+- st: status (git config --global alias.st status)
+- br: branch (git config --global alias.br branch)
+
 Ramas:
 
 - main: Rama principal. Podría considerarse la rama en la que hay uan versión "estable"
