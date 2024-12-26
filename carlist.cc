@@ -15,7 +15,7 @@ int main() {
         cout << i + 1 << ". " << marcas[i] << endl;
     }
 
-    cout << "Gracias por usar mi aplicación" << endl
+    cout << "Gracias por usar mi aplicación" << endl;
 
     return 0;
 }
