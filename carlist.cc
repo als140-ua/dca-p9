@@ -5,6 +5,8 @@
 using namespace std;
 
 int main() {
+    cout << "Bienvenido a mi aplicación CarList" << endl;
+    
     // Lista de marcas de coches
     vector<string> marcas = {"Toyota", "Ford", "BMW", "Audi", "Mazda", "Mecedes-Benz", "McLaren", "Nissan", "DMC", "Suzuki", "Maserati", "Ferrari"};
 
